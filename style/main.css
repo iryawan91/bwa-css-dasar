@@ -1,3 +1,15 @@
+/*instal font*/
+@font-face {
+    font-family: bebas;
+    src: url('../style/BebasNeue-Regular.ttf');
+}
+
+@font-face {
+    font-family: comforta;
+    src: url('../style/Comfortaa-VariableFont_wght.ttf');
+}
+
+
 body{
     margin: 0;
 }
@@ -19,6 +31,7 @@ body{
 .header .logo{
     font-size: 32px;
     float: left;
+    font-family: bebas;
 }
 
 .header .navigation{
@@ -37,6 +50,7 @@ body{
 .header .navigation li a{
     color: black;
     text-decoration: none;
+    font-family: comforta;
 }
 
 .header .navigation li a:hover{
