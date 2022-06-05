@@ -23,5 +23,18 @@ body{
 
 .header .navigation{
     float: right;
+    margin-top: 40px;
 }
 
+
+.header .navigation li{
+    float: right;
+    margin-left: 20px;
+    font-size: 18px;
+    display: block;
+}
+
+.header .navigation li a{
+    color: black;
+    text-decoration: none;
+}
