@@ -57,3 +57,14 @@ body{
     color: red;
     text-decoration: underline;
 }
+
+.icon-kelas{
+    width: 200px;
+    height: 200px;
+    background: blue;
+    border-radius: 50%;
+}
+
+.parent{
+    margin-top: 100px;
+}
