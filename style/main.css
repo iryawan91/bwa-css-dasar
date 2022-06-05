@@ -1,4 +1,5 @@
-   .fitur{
-    background: rgb(134, 240, 174) ;
-    }
-
+.header{
+    width: 100%;
+    overflow: hidden;
+    background: rgba(195, 216, 211, 0.541);
+}
