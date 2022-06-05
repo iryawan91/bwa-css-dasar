@@ -23,7 +23,7 @@ body{
 .header{
     width: 100%;
     overflow: hidden;
-    background: rgba(195, 216, 211, 0.541);
+    background: linear-gradient(rgb(248, 248, 248),rgb(164, 164, 168));
     padding-left: 50px;
     margin-bottom: 50px;
 }
