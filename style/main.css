@@ -30,8 +30,8 @@ body{
 
 .header .logo{
     font-size: 32px;
-    float: left;
-    font-family: bebas;
+    float: left; 
+    font-family: 'Lobster Two', cursive;
 }
 
 .header .navigation{
